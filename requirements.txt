@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+fuzzy-c-means
+matplotlib
+seaborn
+openpyxl
+xlrd
+streamlit-option-menu
